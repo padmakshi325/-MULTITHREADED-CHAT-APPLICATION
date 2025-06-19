@@ -50,3 +50,6 @@ Learning Outcomes:
 This project introduces key concepts in Java networking, including socket programming, stream handling, and thread-based concurrency. It provides a practical foundation for understanding how low-level communication occurs over TCP/IP protocols. By building a live chat tool, learners explore the fundamentals of client-server architecture and concurrent execution in Java.
 This application models the backbone of real-world communication systems and is an excellent stepping stone toward more advanced networked applications like multiplayer games, chat rooms, or REST-based services. It is especially useful for students and beginner developers aiming to strengthen their grasp of interprocess communication and Java’s core I/O libraries.
 
+#OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/93a27f87-3e6c-4835-9ba7-2073d41e88fe)
